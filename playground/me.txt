@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aakanksha Kumari
-Skills: HTML, CSS, Tailwind Css JS, React.js, Python, MySQL
-Email: 82.25aakanksha@gmail.com
-{{/user}}
